@@ -1,12 +1,13 @@
 'use strict'
 
-let dob = document.querySelector('#*');
-let dil = document.querySelector('#/');
-let plus = document.querySelector('#+');
-let minus = document.querySelector('#-');
-let rivne = document.querySelector('#=');
+let dob = document.querySelector('#dob');
+let dil = document.querySelector('#dil');
+let plus = document.querySelector('#plus');
+let minus = document.querySelector('#minus');
+let rivne = document.querySelector('#sum');
 
 let clear = document.querySelector('#C');
 
 let res = 0;
 document.querySelector('#res').innerHTML = res;
+// console.log('qwert')
