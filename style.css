@@ -3,6 +3,11 @@
     width: 120px;
 }
 
+.textRes{
+    margin: 5px;
+    border-box: 100px;
+}
+
 .boxRes{
     width: 100px;
 }
